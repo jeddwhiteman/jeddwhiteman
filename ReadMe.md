@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I am Jedd, currently a business analyst/developer at Prescient Fund Services. Right now, I'm learning .NET Core and all the libraries that come with it. So if you're down to join forces on some side projects and sharpen our skills together, hit me up!
+Hey there! I am Jedd, currently a business analyst/developer at Prescient Fund Services. Right now, I'm learning .NET Core and all the libraries that come with it.
 
 
 ## 🌐 Socials:
